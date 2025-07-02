@@ -1,6 +1,11 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+<header style="background-color: #002C55; padding: 20px; text-align: center;">
+  <img src="assets/logo.png" alt="RISENOVA Logo" width="100" />
+  <h1 style="color: white; letter-spacing: 10px; font-weight: 600; font-size: 24px;">R I S E N O V A</h1>
+  <p style="color: white; font-size: 14px;">合同会社</p>
+</header>
   <meta charset="UTF-8" />
   <title>Risenova Goudou Kaisha – Global Solutions</title>
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
