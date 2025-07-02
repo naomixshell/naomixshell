@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>R I S E N O V A 合同会社 </title>
+  <style>
+    body {
+      font-family: 'Segoe UI', sans-serif;
+      background-color: #f8f9fa;
+      margin: 0;
+      padding: 0;
+      color: #222;
+    }
+    header {
+      background-color: #002b5c;
+      color: white;
+      padding: 40px 20px 20px;
+      text-align: center;
+    }
+    header img {
+      height: 80px;
+      margin-bottom: 20px;
+    }
+    h1 {
+      letter-spacing: 0.5em;
+      font-size: 2.4rem;
+      margin: 0;
+    }
+    p.subtitle {
+      font-size: 1.1rem;
+      color: #d0d7e5;
+    }
+    section {
+      padding: 20px;
+      text-align: center;
+    }
+    a {
+      color: #0044cc;
+      text-decoration: none;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <img src="risenova_logo.png.PNG" alt="RISENOVA Logo" />
+    <h1>R I S E N O V A</h1>
+    <p class="subtitle">合同会社</p>
+  </header>
+
+  <section>
+    <h2>Welcome to R I S E N O V A</h2>
+    <p>
+      We are a Tokyo-based business focused on international partnerships, visa consulting, import-export facilitation, and startup support within Japan.
+    </p>
+    
+    <h3>CEO Contact</h3>
+    <p>
+      Name: Naomi Tanaka<br/>
+      Title: CEO<br/>
+      Email: <a href="mailto:ceo@risenova-jp.com">ceo@risenova-jp.com</a>
+    </p>
+
+    <h3>Legal Notice</h3>
+    <p>&copy; 2025 R I S E N O V A 合同会社 · All Rights Reserved</p>
+  </section>
+</body>
+</html>
